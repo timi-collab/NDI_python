@@ -1,0 +1,11 @@
+{
+    "name": "Levi",
+    "skills": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Football"
+    ],
+    "active": true,
+    "projects": null
+}
